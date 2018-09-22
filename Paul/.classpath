@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-beanutils-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-beanutils-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-beanutils-1.9.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-beanutils-1.9.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/joda-time-2.10.jar"/>
+	<classpathentry exported="true" kind="con" path="net.sf.jasperreports.JR_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="com.jaspersoft.server.JRS_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Cristian/workspace/Paul/JRL/org.springframework.beans-3.1.2.release.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
